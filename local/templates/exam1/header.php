@@ -8,12 +8,6 @@ use \Bitrix\Main\Type\DateTime;
 <head>
     <?$APPLICATION->ShowHead();?>
     <title><?$APPLICATION->ShowTitle();?></title>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta charset="utf-8" />
-    <meta name="keywords" content="">
-    <meta name="description" content="">
-    <meta name="author" content="">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <? Asset::getInstance()->addCss(SITE_TEMPLATE_PATH . '/css/reset.css'); ?>
     <? Asset::getInstance()->addCss(SITE_TEMPLATE_PATH . '/css/style.css'); ?>
     <? Asset::getInstance()->addCss(SITE_TEMPLATE_PATH . '/css/owl.carousel.css'); ?>
@@ -31,7 +25,7 @@ use \Bitrix\Main\Type\DateTime;
     <!-- header -->
     <header class="header">
         <div class="inner-wrap">
-            <div class="logo-block"><a href="" class="logo">Мебельный магазин</a>
+            <div class="logo-block"><a href="" class="logo"> <?=GetMessage('LOGO_NAME')?> </a>
             </div>
             <div class="main-phone-block">
                 <?
