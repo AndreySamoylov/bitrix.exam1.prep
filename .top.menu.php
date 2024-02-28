@@ -4,14 +4,14 @@ $aMenuLinks = Array(
 		"Компания", 
 		"company/", 
 		Array(), 
-		Array("DESCRIPION"=>"Описани компании"), 
+		Array("DESCRIPION"=>"Описани компании", "CLASS_STYLE"=>"color-red"), 
 		"" 
 	),
 	Array(
 		"Новости", 
 		"news/", 
 		Array(), 
-		Array(), 
+		Array("CLASS_STYLE"=>"color-green"), 
 		"" 
 	),
 	Array(
