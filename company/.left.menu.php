@@ -4,14 +4,14 @@ $aMenuLinks = Array(
 		"О компании", 
 		"./", 
 		Array(), 
-		Array(), 
+		Array("DESCRIPION"=>"оо компании"), 
 		"" 
 	),
 	Array(
 		"Руководство", 
 		"management/", 
 		Array(), 
-		Array(), 
+		Array("DESCRIPION"=>"Крутое"), 
 		"" 
 	),
 	Array(

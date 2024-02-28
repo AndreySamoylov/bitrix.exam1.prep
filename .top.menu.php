@@ -1,61 +1,53 @@
-<?if(!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED!==true)die();?>
 <?
 $aMenuLinks = Array(
-    Array(
-        "На главную",
-        "/",
-        Array(),
-        Array('li_class' => 'main-page'),
-        ""
-    ),
 	Array(
 		"Компания", 
 		"company/", 
 		Array(), 
-		Array(), 
+		Array("DESCRIPION"=>"Описани компании"), 
 		"" 
 	),
 	Array(
 		"Новости", 
-		"news/",
+		"news/", 
 		Array(), 
 		Array(), 
 		"" 
 	),
 	Array(
-		"Каталог",
+		"Каталог", 
 		"products/", 
 		Array(), 
 		Array(), 
 		"" 
 	),
 	Array(
-		"Услуги",
+		"Услуги", 
 		"services/", 
 		Array(), 
 		Array(), 
 		"" 
 	),
-    Array(
-        "Партнёрам",
-        "partners/",
-        Array(),
-        Array(),
-        ""
-    ),
-    Array(
-        "Отзывы",
-        "rew/",
-        Array(),
-        Array(),
-        ""
-    ),
-    Array(
-        "Поиск",
-        "search/",
-        Array(),
-        Array(),
-        ""
-    ),
+	Array(
+		"Партнёрам", 
+		"partners/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Отзывы", 
+		"rew/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Поиск", 
+		"search/", 
+		Array(), 
+		Array(), 
+		"" 
+	)
 );
 ?>
