@@ -8,28 +8,28 @@ $aMenuLinks = Array(
 		"" 
 	),
 	Array(
-		"Руководство 2", 
+		"./Руководство 2",
 		"management.php", 
 		Array(), 
 		Array(), 
 		"" 
 	),
 	Array(
-		"Миссия и стратегия 2", 
+		"./Миссия и стратегия 2",
 		"mission.php", 
 		Array(), 
 		Array(), 
 		"" 
 	),
 	Array(
-		"История 2", 
+		"./История 2",
 		"history.php", 
 		Array(), 
 		Array(), 
 		"" 
 	),
 	Array(
-		"Вакансии 3", 
+		"./Вакансии 3",
 		"vacancies.php", 
 		Array(), 
 		Array(), 

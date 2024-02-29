@@ -98,13 +98,17 @@ use \Bitrix\Main\Type\DateTime;
     <!-- /nav -->
     <!-- breadcrumbs -->
     <?php if(!\CSite::inDir(SITE_DIR . 'index.php')) { ?>
-        <div class="breadcrumbs-box">
-            <div class="inner-wrap">
-                <a href="">Главная</a>
-                <a href="">Мебель</a>
-                <span>Выставки и события</span>
-            </div>
-        </div>
+        <?$APPLICATION->IncludeComponent(
+	"bitrix:breadcrumb", 
+	"my-breadcrumb", 
+	array(
+		"PATH" => "",
+		"SITE_ID" => "s1",
+		"START_FROM" => "0",
+		"COMPONENT_TEMPLATE" => "my-breadcrumb"
+	),
+	false
+);?>
     <!-- /breadcrumbs -->
     <?php } ?>
     <!-- page -->

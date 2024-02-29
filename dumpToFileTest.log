@@ -1,0 +1,2722 @@
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(2) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+  [1]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Новости"
+    ["LINK"]=>
+    string(0) ""
+  }
+}
+
+
+test:
+array(2) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+  [1]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Новости"
+    ["LINK"]=>
+    string(0) ""
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(2) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+  [1]=>
+  array(2) {
+    ["TITLE"]=>
+    string(43) "Расписание мероприятий"
+    ["LINK"]=>
+    string(34) "/partners/raspisanie-meropriyatiy/"
+  }
+}
+
+
+test:
+array(2) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+  [1]=>
+  array(2) {
+    ["TITLE"]=>
+    string(43) "Расписание мероприятий"
+    ["LINK"]=>
+    string(34) "/partners/raspisanie-meropriyatiy/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(2) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+  [1]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Новости"
+    ["LINK"]=>
+    string(0) ""
+  }
+}
+
+
+test:
+array(2) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+  [1]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Новости"
+    ["LINK"]=>
+    string(0) ""
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(2) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+  [1]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Новости"
+    ["LINK"]=>
+    string(0) ""
+  }
+}
+
+
+test:
+array(2) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+  [1]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Новости"
+    ["LINK"]=>
+    string(0) ""
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(2) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+  [1]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Новости"
+    ["LINK"]=>
+    string(0) ""
+  }
+}
+
+
+test:
+array(2) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+  [1]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Новости"
+    ["LINK"]=>
+    string(0) ""
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(2) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+  [1]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Новости"
+    ["LINK"]=>
+    string(0) ""
+  }
+}
+
+
+test:
+array(2) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+  [1]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Новости"
+    ["LINK"]=>
+    string(0) ""
+  }
+}
+
+
+test:
+array(2) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+  [1]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Новости"
+    ["LINK"]=>
+    string(0) ""
+  }
+}
+
+
+test:
+array(2) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+  [1]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Новости"
+    ["LINK"]=>
+    string(0) ""
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(2) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+  [1]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Новости"
+    ["LINK"]=>
+    string(0) ""
+  }
+}
+
+
+test:
+array(2) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+  [1]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Новости"
+    ["LINK"]=>
+    string(0) ""
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(2) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+  [1]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Новости"
+    ["LINK"]=>
+    string(0) ""
+  }
+}
+
+
+test:
+array(2) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+  [1]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Новости"
+    ["LINK"]=>
+    string(0) ""
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(2) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+  [1]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Новости"
+    ["LINK"]=>
+    string(0) ""
+  }
+}
+
+
+test:
+array(2) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+  [1]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Новости"
+    ["LINK"]=>
+    string(0) ""
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(2) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+  [1]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Новости"
+    ["LINK"]=>
+    string(0) ""
+  }
+}
+
+
+test:
+array(2) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+  [1]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Новости"
+    ["LINK"]=>
+    string(0) ""
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(2) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+  [1]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Новости"
+    ["LINK"]=>
+    string(0) ""
+  }
+}
+
+
+test:
+array(2) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+  [1]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Новости"
+    ["LINK"]=>
+    string(0) ""
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(2) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+  [1]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Новости"
+    ["LINK"]=>
+    string(0) ""
+  }
+}
+
+
+test:
+array(2) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+  [1]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Новости"
+    ["LINK"]=>
+    string(0) ""
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(2) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+  [1]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Новости"
+    ["LINK"]=>
+    string(0) ""
+  }
+}
+
+
+test:
+array(2) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+  [1]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Новости"
+    ["LINK"]=>
+    string(0) ""
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(2) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+  [1]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Новости"
+    ["LINK"]=>
+    string(0) ""
+  }
+}
+
+
+test:
+array(2) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+  [1]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Новости"
+    ["LINK"]=>
+    string(0) ""
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(2) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+  [1]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Новости"
+    ["LINK"]=>
+    string(0) ""
+  }
+}
+
+
+test:
+array(2) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+  [1]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Новости"
+    ["LINK"]=>
+    string(0) ""
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(1) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+}
+
+
+test:
+array(2) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+  [1]=>
+  array(2) {
+    ["TITLE"]=>
+    string(43) "Расписание мероприятий"
+    ["LINK"]=>
+    string(34) "/partners/raspisanie-meropriyatiy/"
+  }
+}
+
+
+test:
+array(2) {
+  [0]=>
+  array(2) {
+    ["TITLE"]=>
+    string(14) "Главная"
+    ["LINK"]=>
+    string(1) "/"
+  }
+  [1]=>
+  array(2) {
+    ["TITLE"]=>
+    string(43) "Расписание мероприятий"
+    ["LINK"]=>
+    string(34) "/partners/raspisanie-meropriyatiy/"
+  }
+}
+
+
