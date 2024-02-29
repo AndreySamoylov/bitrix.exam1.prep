@@ -28,12 +28,19 @@
         <!-- /side menu -->
     <?php } ?>
     <!-- side anonse -->
-    <div class="side-block side-anonse">
-        <div class="title-block"><span class="i i-title01"></span>Полезная информация!</div>
-        <div class="item">
-            <p>Клиенты предпочитают все больше эко-материалов.</p>
-        </div>
-    </div>
+    <?$APPLICATION->IncludeComponent(
+	"bitrix:main.include", 
+	"include_exam1", 
+	array(
+		"AREA_FILE_SHOW" => "sect",
+		"AREA_FILE_SUFFIX" => "inc",
+		"EDIT_TEMPLATE" => "",
+		"PATH" => "",
+		"COMPONENT_TEMPLATE" => "include_exam1",
+		"AREA_FILE_RECURSIVE" => "Y"
+	),
+	false
+);?>
     <!-- /side anonse -->
     <!-- side wrap -->
     <div class="side-wrap">
