@@ -12,14 +12,7 @@ $APPLICATION->SetTitle("Поиск");
 		"USE_TITLE_RANK" => "N",
 		"DEFAULT_SORT" => "rank",
 		"arrFILTER" => array(
-			0 => "main",
-			1 => "forum",
-			2 => "iblock_products",
-			3 => "iblock_vacancies",
-			4 => "iblock_content",
-			5 => "iblock_rest_entity",
-			6 => "blog",
-			7 => "microblog",
+			0 => "iblock_content",
 		),
 		"SHOW_WHERE" => "N",
 		"SHOW_WHEN" => "N",
@@ -45,8 +38,7 @@ $APPLICATION->SetTitle("Поиск");
 		"COMPONENT_TEMPLATE" => "clear",
 		"NO_WORD_LOGIC" => "N",
 		"FILTER_NAME" => "",
-		"arrFILTER_main" => array(
-		),
+		"arrFILTER_main" => "",
 		"arrFILTER_forum" => array(
 			0 => "all",
 		),
