@@ -22,4 +22,6 @@ $APPLICATION->SetTitle("Профиль пользователя");
 		"REGISTER_URL" => "/login/?register=yes",
 		"SHOW_ERRORS" => "N"
 	)
-);?><?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>
+);?>
+
+<?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>
